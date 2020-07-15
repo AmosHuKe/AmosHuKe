@@ -3,11 +3,16 @@
 这里是一位正在学习的豆豆 ≖‿≖✧  
 虽然想写点什么，但是好像什么也写不出来 🤔  
   
-<a href="https://steamcommunity.com/id/Amoshuke/">
-  <code><img height="20" src="https://store.steampowered.com/favicon.ico"></code>
-</a>
+<!-- **Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
   
-- 💬 Ask me about：[here](mailto:amoshuke@gmail.com)
+- 💬 How to reach me: [here](mailto:amoshuke@gmail.com)  
+- 🎮 Games: 
+<a target="_blank" href="https://steamcommunity.com/id/Amoshuke/"><code><img height="18" src="./static/images/steam.ico"></code></a>
+<a target="_blank" href="https://amoshk.gitee.io/blog/about/"><code><img height="18" src="./static/images/switch.svg"></code></a>
 
 
 [![AmosHuKe's github stats](https://github-readme-stats.vercel.app/api?username=AmosHuKe&hide=["contribs","issues"])](https://github.com/anuraghazra/github-readme-stats)
