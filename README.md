@@ -14,8 +14,11 @@
 <a href="https://steamcommunity.com/id/Amoshuke/"><code><img height="16" src="https://raw.githubusercontent.com/AmosHuKe/AmosHuKe/master/static/images/steam.ico"></code></a>
 <a href="https://amoshk.gitee.io/blog/about/"><code><img height="16" src="https://raw.githubusercontent.com/AmosHuKe/AmosHuKe/master/static/images/switch.svg"></code></a>
 
+<center>
 
 [![AmosHuKe's github stats](https://github-readme-stats.vercel.app/api?username=AmosHuKe&hide=["contribs","issues"])](https://github.com/anuraghazra/github-readme-stats)
+
+</center>
 
 
 
