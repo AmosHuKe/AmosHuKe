@@ -1,7 +1,7 @@
 ### Wooooo, I'm [Amos!](https://amoshk.top) 👋  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src='https://github-readme-stats.vercel.app/api?username=AmosHuKe&hide=["contribs","issues"]&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true' />
+<img src='https://github-readme-stats.vercel.app/api?username=AmosHuKe&show_icons=true&count_private=true&hide_title=true' />
 </a>
   
 <!-- **Languages and Tools:**  
