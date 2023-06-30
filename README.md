@@ -5,4 +5,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amoshuke&layout=compact&hide_border=true&hide_title=true&hide=CSS" />
 </a>
 
-<img align="center" width="42px" src="./assets/hi.gif"/>
+<img align="right" width="42px" src="./assets/hi.gif" />
