@@ -1,5 +1,3 @@
-<img align="right" width="42px" src="./assets/hi.gif" />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Config: &hide=contribs -->
   <picture decoding="async" loading="lazy">
