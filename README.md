@@ -2,8 +2,6 @@
   <samp>
     <a href="mailto:hi@amooos.com">mail</a>
     •
-    <a href="https://pub.dev/publishers/amooos.com/packages">packages</a>
-    •
     <a href="https://amooos.com">website</a>
   </samp>
 </div>
