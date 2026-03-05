@@ -3,6 +3,10 @@
     <a href="mailto:hi@amooos.com">mail</a>
     •
     <a href="https://amooos.com">website</a>
+    <br />
+    <a href="https://github.com/cfug">@CFUG</a> (China Flutter User Group)
+    •
+    <a href="https://github.com/fluttercandies">@FlutterCandies</a>
   </samp>
 </div>
 
