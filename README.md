@@ -9,6 +9,8 @@
     •
     <a href="https://github.com/fluttercandies">@FlutterCandies</a>
   </samp>
+  <br /><br />
+  <img width="100px" src="./assets/hi.gif">
 </div>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
